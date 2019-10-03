@@ -4,7 +4,7 @@ using System.Text;
 
 namespace lemonadestand
 {
-    class Class1
+    class Player
     {
     }
 }
