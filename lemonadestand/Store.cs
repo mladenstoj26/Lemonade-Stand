@@ -6,5 +6,6 @@ namespace lemonadestand
 {
     class Store
     {
+        Player player;
     }
 }

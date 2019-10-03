@@ -6,5 +6,6 @@ namespace lemonadestand
 {
     class Pitcher
     {
+        public int cupsLeftinPitcher;
     }
 }

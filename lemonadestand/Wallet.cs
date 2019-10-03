@@ -6,5 +6,6 @@ namespace lemonadestand
 {
     class Wallet
     {
+        private double money;
     }
 }

@@ -6,5 +6,6 @@ namespace lemonadestand
 {
     class _abstract__Item
     {
+        public string name;
     }
 }
